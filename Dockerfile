@@ -1,1 +1,1 @@
-From docker.io/coollabsio/coolify
+docker pull postgres
